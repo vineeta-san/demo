@@ -1,2 +1,2 @@
 # demo
-using git for first time
+using git for first time.
